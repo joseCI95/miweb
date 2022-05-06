@@ -1,2 +1,0 @@
-archivo numero dos creado para practica de git, realizando una modificacion
-segunda modificacion con archivo en commit
